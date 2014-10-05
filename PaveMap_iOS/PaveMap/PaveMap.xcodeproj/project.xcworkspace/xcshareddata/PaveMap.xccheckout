@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>78F64519-9D1E-4231-8516-1B41CBDC5AAF</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PaveMap</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>DAF7FC1C462FC6A953F4339C756D08D24F7B8A05</key>
+		<string>https://github.com/tungdev1209/PaveMap.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PaveMap_iOS/PaveMap/PaveMap.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>DAF7FC1C462FC6A953F4339C756D08D24F7B8A05</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/tungdev1209/PaveMap.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>DAF7FC1C462FC6A953F4339C756D08D24F7B8A05</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>DAF7FC1C462FC6A953F4339C756D08D24F7B8A05</string>
+			<key>IDESourceControlWCCName</key>
+			<string>PaveMap</string>
+		</dict>
+	</array>
+</dict>
+</plist>
